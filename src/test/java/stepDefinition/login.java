@@ -15,6 +15,8 @@ public class login {
     @Given("^User is on login page$")
     public void user_is_on_login_page() throws Throwable {
         System.out.println("Given");
+        System.out.println("changed1");
+        System.out.println("Changed2");
 
     }
 
