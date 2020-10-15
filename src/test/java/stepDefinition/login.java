@@ -23,6 +23,9 @@ public class login {
         System.out.println("branch");
         System.out.println("develop");
         System.out.println("branch");
+        System.out.println("second change");
+        System.out.println("second change in develop after pulling");
+        System.out.println("develop");
     }
 
     @When("^user enter \"([^\"]*)\" and \"([^\"]*)\"$")
