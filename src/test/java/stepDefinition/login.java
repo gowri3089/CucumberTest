@@ -22,7 +22,7 @@ public class login {
         System.out.println("branch");
         System.out.println("branch");
         System.out.println("develop");
-        System.out.println("branch");
+        System.out.println("changed in develop branch");
     }
 
     @When("^user enter \"([^\"]*)\" and \"([^\"]*)\"$")
