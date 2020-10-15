@@ -17,7 +17,12 @@ public class login {
         System.out.println("Given");
         System.out.println("changed1");
         System.out.println("Changed2");
-
+        System.out.println("branch");
+        System.out.println("develop");
+        System.out.println("branch");
+        System.out.println("branch");
+        System.out.println("develop");
+        System.out.println("branch");
     }
 
     @When("^user enter \"([^\"]*)\" and \"([^\"]*)\"$")
